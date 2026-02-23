@@ -1,6 +1,6 @@
 # Cloud Computing Architecture project
 
-Goal of the project was to schedule applications of different requirements (latency-sensitive, batch applications) in the cloud efficiently 
+Goal of the project was to schedule applications of different requirements (latency-sensitive, batch applications) in the cloud efficiently. The project was done on Google Cloud Platform
 
 ## Projects in this repository
 This repository contains in report part 1 and 2 solutions and for part 3 and 4 both the solutions in the report and the implementation in folders under ./cloud-computing-architecture-projects/:
